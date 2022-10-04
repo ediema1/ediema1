@@ -1,6 +1,7 @@
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile1`, function (sprite, location) {
-    if (true) {
-        当前关卡 += 1
+    当前关卡 += 1
+    if (0 <= 0) {
+    	
     } else {
     	
     }
